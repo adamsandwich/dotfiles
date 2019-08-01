@@ -36,5 +36,9 @@ I use:
 
 ## Spotify
 [spicetify-cli](https://github.com/khanhas/spicetify-cli): Commandline tool to customize Spotify client.
+
+
 [Tutorial Post](https://sspai.com/post/55954)
+
+
 My config `spicetify-cli.color.ini` `spicetify-cli.user.css`, Rename them to `color.ini` `user.css` and place them in `C:\Users\{username}\spicetify-cli\Themes\SpicetifyDefault`.
