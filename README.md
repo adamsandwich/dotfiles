@@ -1,7 +1,6 @@
 <div align="center"><img src="logo.svg" alt="icon" width="40%" /></div>
 
 # dotfiles
-
 > This repo contains my dotfiles.
 
 ## Config
@@ -34,3 +33,8 @@ Also, here's my PowerShell configuration profile: [Microsoft.PowerShell_profile.
 I use:
 
 - [`Get-ChildItemColor`](https://github.com/joonro/Get-ChildItemColor) for better colored `ls`
+
+## Spotify
+[spicetify-cli](https://github.com/khanhas/spicetify-cli): Commandline tool to customize Spotify client.
+[Tutorial Post](https://sspai.com/post/55954)
+My config `spicetify-cli.color.ini` `spicetify-cli.user.css`, Rename them to `color.ini` `user.css` and place them in `C:\Users\{username}\spicetify-cli\Themes\SpicetifyDefault`.
