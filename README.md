@@ -6,7 +6,9 @@
 ## Config
 
 - Font: [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic)
-- Terminal: [Fluent Terminal](https://github.com/felixse/FluentTerminal)
+- Terminal: 
+  - Option 1: [Fluent Terminal](https://github.com/felixse/FluentTerminal)
+  - Option 2: [Microsoft Terminal](https://github.com/microsoft/terminal) with my [profiles.json](/Microsoft-Terminal/profiles.json)
 - Package Manager for Windows:
   - Option 1: [Scoop](https://github.com/lukesampson/scoop) with [Extras Bucket](https://github.com/lukesampson/scoop-extras)
   - Option 2: [Choco](https://github.com/chocolatey/choco)
