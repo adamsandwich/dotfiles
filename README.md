@@ -22,17 +22,24 @@ Go to [Oh-My-Posh](https://github.com/JanDeDobbeleer/oh-my-posh) for information
 $ThemeSettings
 ```
 
-Then check your theme folder, navigate there, and put `SandwichTechy.psm1` there.
+Then check your theme folder, navigate there, and put [SandwichTechy.psm1](/PowerShell/SandwichTechy.psm1) there.
 Reload theme by:
 
 ```PowerShell
 Set-Theme SandwichTechy
 ```
 
-Also, here's my PowerShell configuration profile: [Microsoft.PowerShell_profile.ps1](/Microsoft.PowerShell_profile.ps1) for reference.
+Also, here's my PowerShell configuration profile: [Microsoft.PowerShell_profile.ps1](/PowerShell/Microsoft.PowerShell_profile.ps1) for reference.
 I use:
 
 - [`Get-ChildItemColor`](https://github.com/joonro/Get-ChildItemColor) for better colored `ls`
+
+## VS Code
+
+### Extensions
+
+#### Markdown Preview Enhanced
+My preview style file [style.less](/VSCode-Extensions/) put it in `C:\Users\{username}\.mume`.
 
 ## Spotify
 [spicetify-cli](https://github.com/khanhas/spicetify-cli): Commandline tool to customize Spotify client.
@@ -41,4 +48,4 @@ I use:
 [Tutorial Post](https://sspai.com/post/55954)
 
 
-My config `spicetify-cli.color.ini` `spicetify-cli.user.css`, Rename them to `color.ini` `user.css` and place them in `C:\Users\{username}\spicetify-cli\Themes\SpicetifyDefault`.
+My config in folder `spicetify-cli` place them in `C:\Users\{username}\spicetify-cli\Themes\SpicetifyDefault`.
