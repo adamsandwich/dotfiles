@@ -51,3 +51,10 @@ My preview style file [`style.less`](/VSCode-Extensions/) put it in `C:\Users\{u
 
 
 My config in folder `spicetify-cli` place them in `C:\Users\{username}\spicetify-cli\Themes\SpicetifyDefault`.
+
+## Chrome
+
+### Extensions
+
+#### Stylus
+- [`baidu-lite`](/Chrome/Extensions/Stylus/baidu-lite.css)
